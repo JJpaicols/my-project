@@ -1,19 +1,29 @@
-Licenza MIT
+# Licenza Pubblica Generale GNU (GNU General Public License, GPL)
 
-Diritti d'autore (c) 2024 Judo Online
+Versione 3, 29 Giugno 2007
 
-È concessa gratuitamente l'autorizzazione, a chiunque ottenga una copia
-di questo software e dei file di documentazione associati (il "Software"), di utilizzare
-il Software senza restrizioni, inclusi, senza limitazione, i diritti
-di utilizzare, copiare, modificare, unire, pubblicare, distribuire, concedere in sublicenza e/o vendere
-copia del Software e di consentire alle persone a cui il Software viene
-fornito di farlo, a condizione che le seguenti condizioni siano soddisfatte:
+## Premessa
 
-Il presente avviso di diritto d'autore e l'avviso di autorizzazione a darsi devono essere inclusi in ogni
-copia o porzione sostanziale del Software.
+La Licenza Pubblica Generale GNU è una licenza copyleft progettata per garantire la libertà agli utenti di condividere e modificare il software libero. Di seguito sono riportati i termini e le condizioni per la distribuzione e la modifica del software soggetto a questa licenza.
 
-IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPRESSE O IMPLICITE,
-INCLUSO MA NON LIMITATO A GARANZIE DI COMMERCIABILITÀ,
-IDONEITÀ PER UN PARTICOLARE SCOPO E NON VIOLAZIONE. IN NESSUN CASO GLI AUTORI O TITOLARI DEL COPYRIGHT POTRANNO ESSERE RITENUTI RESPONSABILI PER QUALSIASI RECLAMO, DANNI O ALTRO
-RESPONSABILITÀ, CHE SIA IN UN'AZIONE DI CONTRATTO, TORTO O ALTRO, DERIVANTE DA,
-FUORI O IN CONNESSIONE CON IL SOFTWARE O L'USO O ALTRO TIPO DI OPERAZIONE NEL SOFTWARE.
+## Testo della Licenza
+
+Il testo completo della Licenza Pubblica Generale GNU può essere trovato nel file [COPYING](COPYING) incluso in questo progetto.
+
+## Sommario
+
+In sintesi, questa licenza afferma che:
+
+1. Se distribuisci software basato su questo lavoro, devi fornire il codice sorgente o rendere disponibile il codice sorgente per il software distribuito insieme o tramite un canale accessibile.
+
+2. Qualsiasi modifica apportata al software deve essere resa disponibile sotto la stessa licenza GPL quando distribuita.
+
+3. Il software può essere distribuito a scopo commerciale, ma non può essere reso proprietario. Tutti i diritti derivati devono essere concessi con la stessa libertà.
+
+Per i dettagli completi, consultare il testo completo della [Licenza Pubblica Generale GNU versione 3](https://www.gnu.org/licenses/gpl-3.0.html).
+
+## Note
+
+Questa è una versione semplificata della Licenza Pubblica Generale GNU. Si consiglia vivamente di leggere la licenza completa per una comprensione accurata dei diritti e degli obblighi previsti.
+
+
